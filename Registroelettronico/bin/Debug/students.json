@@ -1,0 +1,6342 @@
+[
+  {
+    "matricola": 513272,
+    "nome": "Aurora",
+    "cognome": "Rossi",
+    "data_nascita": "2008-11-22T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        5,
+        2,
+        2,
+        3
+      ],
+      "Storia": [
+        8,
+        2,
+        3,
+        2
+      ],
+      "Matematica": [
+        4,
+        4,
+        7,
+        2
+      ],
+      "Inglese": [
+        4,
+        8,
+        3,
+        8
+      ],
+      "Informatica": [
+        6,
+        4,
+        2,
+        4
+      ],
+      "Sistemi e Reti": [
+        8,
+        5,
+        5,
+        2
+      ],
+      "Tpsit": [
+        8,
+        5,
+        9,
+        4
+      ],
+      "Telecomunicazioni": [
+        7,
+        2,
+        8,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 562839,
+    "nome": "Beatrice",
+    "cognome": "Russo",
+    "data_nascita": "2008-12-19T23:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        7,
+        9,
+        5,
+        4,
+        10
+      ],
+      "Storia": [
+        8,
+        6,
+        2,
+        9,
+        6
+      ],
+      "Matematica": [
+        6,
+        2,
+        3,
+        9
+      ],
+      "Inglese": [
+        2,
+        5,
+        6,
+        9
+      ],
+      "Informatica": [
+        2,
+        2,
+        8,
+        9
+      ],
+      "Sistemi e Reti": [
+        2,
+        7,
+        2,
+        5
+      ],
+      "Tpsit": [
+        6,
+        4,
+        8,
+        8
+      ],
+      "Telecomunicazioni": [
+        2,
+        3,
+        7,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 359938,
+    "nome": "Camilla",
+    "cognome": "Colombo",
+    "data_nascita": "2008-02-27T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        5,
+        2,
+        2,
+        6
+      ],
+      "Storia": [
+        7,
+        5,
+        6,
+        8
+      ],
+      "Matematica": [
+        2,
+        5,
+        5,
+        2
+      ],
+      "Inglese": [
+        8,
+        2,
+        7,
+        9
+      ],
+      "Informatica": [
+        8,
+        2,
+        5,
+        4
+      ],
+      "Sistemi e Reti": [
+        2,
+        8,
+        6,
+        8
+      ],
+      "Tpsit": [
+        3,
+        5,
+        5,
+        4
+      ],
+      "Telecomunicazioni": [
+        8,
+        9,
+        2,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 462284,
+    "nome": "Sofia",
+    "cognome": "Esposito",
+    "data_nascita": "2007-07-15T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        8,
+        2,
+        2,
+        6,
+        9
+      ],
+      "Storia": [
+        7,
+        6,
+        6,
+        5
+      ],
+      "Matematica": [
+        9,
+        5,
+        5,
+        8
+      ],
+      "Inglese": [
+        9,
+        9,
+        6,
+        2,
+        6
+      ],
+      "Informatica": [
+        3,
+        2,
+        6,
+        3
+      ],
+      "Sistemi e Reti": [
+        7,
+        7,
+        9,
+        9
+      ],
+      "Tpsit": [
+        7,
+        2,
+        7,
+        8
+      ],
+      "Telecomunicazioni": [
+        3,
+        2,
+        4,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 467199,
+    "nome": "Giulia",
+    "cognome": "Bianchi",
+    "data_nascita": "2008-08-23T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        9,
+        3,
+        2
+      ],
+      "Storia": [
+        9,
+        6,
+        4,
+        2
+      ],
+      "Matematica": [
+        5,
+        4,
+        2,
+        5
+      ],
+      "Inglese": [
+        6,
+        9,
+        4,
+        2
+      ],
+      "Informatica": [
+        6,
+        7,
+        2,
+        9
+      ],
+      "Sistemi e Reti": [
+        2,
+        5,
+        5,
+        6
+      ],
+      "Tpsit": [
+        2,
+        7,
+        5,
+        9
+      ],
+      "Telecomunicazioni": [
+        9,
+        2,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 527672,
+    "nome": "Emma",
+    "cognome": "Ferrari",
+    "data_nascita": "2007-11-11T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        9,
+        6,
+        5
+      ],
+      "Storia": [
+        8,
+        2,
+        9,
+        8
+      ],
+      "Matematica": [
+        4,
+        2,
+        2,
+        6
+      ],
+      "Inglese": [
+        6,
+        2,
+        8,
+        2
+      ],
+      "Informatica": [
+        6,
+        2,
+        5,
+        4
+      ],
+      "Sistemi e Reti": [
+        6,
+        6,
+        8,
+        3
+      ],
+      "Tpsit": [
+        7,
+        8,
+        8,
+        3
+      ],
+      "Telecomunicazioni": [
+        7,
+        8,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 427008,
+    "nome": "Elena",
+    "cognome": "Romano",
+    "data_nascita": "2008-02-19T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        5,
+        3,
+        9,
+        5
+      ],
+      "Storia": [
+        3,
+        2,
+        7,
+        8
+      ],
+      "Matematica": [
+        3,
+        5,
+        2,
+        5
+      ],
+      "Inglese": [
+        4,
+        3,
+        8,
+        3
+      ],
+      "Informatica": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "Sistemi e Reti": [
+        8,
+        3,
+        7,
+        2
+      ],
+      "Tpsit": [
+        2,
+        2,
+        4,
+        8
+      ],
+      "Telecomunicazioni": [
+        3,
+        9,
+        2,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 652662,
+    "nome": "Alice",
+    "cognome": "Ricci",
+    "data_nascita": "2008-01-27T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        6,
+        9,
+        3,
+        6
+      ],
+      "Storia": [
+        6,
+        2,
+        8,
+        9
+      ],
+      "Matematica": [
+        4,
+        2,
+        5,
+        3
+      ],
+      "Inglese": [
+        4,
+        2,
+        2,
+        2
+      ],
+      "Informatica": [
+        8,
+        5,
+        4,
+        2
+      ],
+      "Sistemi e Reti": [
+        9,
+        7,
+        9,
+        2
+      ],
+      "Tpsit": [
+        9,
+        2,
+        4,
+        2
+      ],
+      "Telecomunicazioni": [
+        2,
+        6,
+        6,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 498982,
+    "nome": "Martina",
+    "cognome": "Lombardi",
+    "data_nascita": "2007-04-12T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        4,
+        2,
+        2,
+        3
+      ],
+      "Storia": [
+        7,
+        9,
+        9,
+        2
+      ],
+      "Matematica": [
+        6,
+        2,
+        7,
+        9
+      ],
+      "Inglese": [
+        8,
+        4,
+        8,
+        6
+      ],
+      "Informatica": [
+        4,
+        5,
+        9,
+        5
+      ],
+      "Sistemi e Reti": [
+        7,
+        6,
+        6,
+        7
+      ],
+      "Tpsit": [
+        2,
+        2,
+        5,
+        7
+      ],
+      "Telecomunicazioni": [
+        6,
+        3,
+        7,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 371997,
+    "nome": "Chiara",
+    "cognome": "Mancini",
+    "data_nascita": "2008-12-21T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        4,
+        6,
+        4
+      ],
+      "Storia": [
+        3,
+        7,
+        2,
+        2
+      ],
+      "Matematica": [
+        9,
+        2,
+        4,
+        8
+      ],
+      "Inglese": [
+        3,
+        3,
+        3,
+        6
+      ],
+      "Informatica": [
+        8,
+        7,
+        4,
+        3
+      ],
+      "Sistemi e Reti": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Tpsit": [
+        9,
+        8,
+        2,
+        4
+      ],
+      "Telecomunicazioni": [
+        8,
+        2,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 172445,
+    "nome": "Giorgia",
+    "cognome": "Marino",
+    "data_nascita": "2007-03-17T23:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        8,
+        7,
+        3,
+        2
+      ],
+      "Storia": [
+        4,
+        2,
+        4,
+        7
+      ],
+      "Matematica": [
+        2,
+        7,
+        2,
+        2
+      ],
+      "Inglese": [
+        2,
+        9,
+        3,
+        3
+      ],
+      "Informatica": [
+        2,
+        6,
+        9,
+        3
+      ],
+      "Sistemi e Reti": [
+        6,
+        3,
+        5,
+        2
+      ],
+      "Tpsit": [
+        2,
+        3,
+        4,
+        2
+      ],
+      "Telecomunicazioni": [
+        9,
+        6,
+        5,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 144527,
+    "nome": "Greta",
+    "cognome": "Greco",
+    "data_nascita": "2008-06-07T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        2,
+        6,
+        3,
+        3
+      ],
+      "Storia": [
+        2,
+        4,
+        2,
+        5
+      ],
+      "Matematica": [
+        7,
+        5,
+        6,
+        5
+      ],
+      "Inglese": [
+        7,
+        6,
+        3,
+        2
+      ],
+      "Informatica": [
+        5,
+        9,
+        5,
+        2
+      ],
+      "Sistemi e Reti": [
+        9,
+        9,
+        8,
+        2
+      ],
+      "Tpsit": [
+        3,
+        7,
+        6,
+        9
+      ],
+      "Telecomunicazioni": [
+        4,
+        6,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 466057,
+    "nome": "Sara",
+    "cognome": "Bruno",
+    "data_nascita": "2007-08-09T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        5,
+        2,
+        9,
+        3
+      ],
+      "Storia": [
+        8,
+        2,
+        9,
+        7
+      ],
+      "Matematica": [
+        2,
+        5,
+        4,
+        4
+      ],
+      "Inglese": [
+        5,
+        2,
+        2,
+        3
+      ],
+      "Informatica": [
+        7,
+        4,
+        6,
+        9
+      ],
+      "Sistemi e Reti": [
+        2,
+        7,
+        4,
+        5
+      ],
+      "Tpsit": [
+        2,
+        6,
+        4,
+        8
+      ],
+      "Telecomunicazioni": [
+        5,
+        6,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 322233,
+    "nome": "Anna",
+    "cognome": "Conti",
+    "data_nascita": "2007-11-15T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "Storia": [
+        8,
+        8,
+        7,
+        8
+      ],
+      "Matematica": [
+        6,
+        6,
+        8,
+        9
+      ],
+      "Inglese": [
+        6,
+        2,
+        6,
+        8
+      ],
+      "Informatica": [
+        9,
+        6,
+        7,
+        7
+      ],
+      "Sistemi e Reti": [
+        6,
+        3,
+        2,
+        2
+      ],
+      "Tpsit": [
+        8,
+        3,
+        4,
+        2
+      ],
+      "Telecomunicazioni": [
+        4,
+        3,
+        6,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 613038,
+    "nome": "Francesca",
+    "cognome": "De Luca",
+    "data_nascita": "2007-06-13T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        7,
+        2,
+        9,
+        3
+      ],
+      "Storia": [
+        7,
+        2,
+        7,
+        9
+      ],
+      "Matematica": [
+        4,
+        2,
+        2,
+        2
+      ],
+      "Inglese": [
+        4,
+        7,
+        7,
+        3
+      ],
+      "Informatica": [
+        3,
+        5,
+        8,
+        3
+      ],
+      "Sistemi e Reti": [
+        8,
+        3,
+        8,
+        7
+      ],
+      "Tpsit": [
+        2,
+        9,
+        2,
+        9
+      ],
+      "Telecomunicazioni": [
+        2,
+        3,
+        4,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 320546,
+    "nome": "Irene",
+    "cognome": "Cairo",
+    "data_nascita": "2007-03-03T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        5,
+        9,
+        2
+      ],
+      "Storia": [
+        6,
+        2,
+        7,
+        8
+      ],
+      "Matematica": [
+        2,
+        6,
+        4,
+        2
+      ],
+      "Inglese": [
+        2,
+        3,
+        8,
+        6
+      ],
+      "Informatica": [
+        4,
+        6,
+        5,
+        2
+      ],
+      "Sistemi e Reti": [
+        5,
+        2,
+        2,
+        5
+      ],
+      "Tpsit": [
+        4,
+        2,
+        2,
+        9
+      ],
+      "Telecomunicazioni": [
+        3,
+        5,
+        6,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 271475,
+    "nome": "Valeria",
+    "cognome": "Costa",
+    "data_nascita": "2007-12-20T23:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        8,
+        9,
+        8,
+        2
+      ],
+      "Storia": [
+        6,
+        2,
+        7,
+        7
+      ],
+      "Matematica": [
+        8,
+        4,
+        7,
+        7
+      ],
+      "Inglese": [
+        6,
+        6,
+        2,
+        5
+      ],
+      "Informatica": [
+        7,
+        6,
+        8,
+        2
+      ],
+      "Sistemi e Reti": [
+        4,
+        3,
+        4,
+        3
+      ],
+      "Tpsit": [
+        2,
+        6,
+        7,
+        2
+      ],
+      "Telecomunicazioni": [
+        8,
+        2,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 413502,
+    "nome": "Nicole",
+    "cognome": "Fontana",
+    "data_nascita": "2008-11-18T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        8,
+        2,
+        7,
+        3
+      ],
+      "Storia": [
+        3,
+        8,
+        7,
+        3
+      ],
+      "Matematica": [
+        8,
+        9,
+        3,
+        2
+      ],
+      "Inglese": [
+        6,
+        4,
+        2,
+        9
+      ],
+      "Informatica": [
+        2,
+        9,
+        8,
+        3
+      ],
+      "Sistemi e Reti": [
+        7,
+        9,
+        4,
+        8
+      ],
+      "Tpsit": [
+        8,
+        6,
+        7,
+        3
+      ],
+      "Telecomunicazioni": [
+        4,
+        8,
+        6,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 246951,
+    "nome": "Giorgia",
+    "cognome": "Esposito",
+    "data_nascita": "2007-06-30T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        2,
+        9,
+        4,
+        7
+      ],
+      "Storia": [
+        9,
+        4,
+        3,
+        3
+      ],
+      "Matematica": [
+        2,
+        5,
+        6,
+        7
+      ],
+      "Inglese": [
+        2,
+        9,
+        6,
+        2
+      ],
+      "Informatica": [
+        4,
+        5,
+        7,
+        2
+      ],
+      "Sistemi e Reti": [
+        4,
+        3,
+        2,
+        2
+      ],
+      "Tpsit": [
+        6,
+        5,
+        3,
+        4
+      ],
+      "Telecomunicazioni": [
+        6,
+        5,
+        6,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 530307,
+    "nome": "Elisa",
+    "cognome": "Bellanova",
+    "data_nascita": "2008-05-10T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        4,
+        2,
+        3,
+        7
+      ],
+      "Storia": [
+        6,
+        5,
+        3,
+        2,
+        8
+      ],
+      "Matematica": [
+        5,
+        3,
+        4,
+        7,
+        10
+      ],
+      "Inglese": [
+        4,
+        4,
+        3,
+        4,
+        6
+      ],
+      "Informatica": [
+        5,
+        2,
+        2,
+        6
+      ],
+      "Sistemi e Reti": [
+        5,
+        2,
+        7,
+        8
+      ],
+      "Tpsit": [
+        9,
+        2,
+        2,
+        5
+      ],
+      "Telecomunicazioni": [
+        8,
+        4,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 294568,
+    "nome": "Federica",
+    "cognome": "Toscano",
+    "data_nascita": "2007-06-05T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        8,
+        6,
+        8,
+        3
+      ],
+      "Storia": [
+        4,
+        2,
+        2,
+        5
+      ],
+      "Matematica": [
+        2,
+        6,
+        8,
+        2
+      ],
+      "Inglese": [
+        5,
+        4,
+        2,
+        3
+      ],
+      "Informatica": [
+        5,
+        3,
+        9,
+        5
+      ],
+      "Sistemi e Reti": [
+        2,
+        2,
+        6,
+        6
+      ],
+      "Tpsit": [
+        7,
+        2,
+        2,
+        8
+      ],
+      "Telecomunicazioni": [
+        2,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 215489,
+    "nome": "Roberta",
+    "cognome": "Lombardo",
+    "data_nascita": "2007-05-11T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        7,
+        7,
+        2
+      ],
+      "Storia": [
+        3,
+        2,
+        4,
+        4,
+        8
+      ],
+      "Matematica": [
+        2,
+        2,
+        5,
+        8
+      ],
+      "Inglese": [
+        6,
+        2,
+        4,
+        2
+      ],
+      "Informatica": [
+        7,
+        7,
+        9,
+        6
+      ],
+      "Sistemi e Reti": [
+        5,
+        5,
+        7,
+        3
+      ],
+      "Tpsit": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        2,
+        3,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 481701,
+    "nome": "Lucia",
+    "cognome": "Campano",
+    "data_nascita": "2008-11-09T23:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        2,
+        8
+      ],
+      "Storia": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "Matematica": [
+        3,
+        2,
+        2,
+        5
+      ],
+      "Inglese": [
+        2,
+        2,
+        6,
+        2
+      ],
+      "Informatica": [
+        4,
+        8,
+        7,
+        2
+      ],
+      "Sistemi e Reti": [
+        6,
+        8,
+        5,
+        4
+      ],
+      "Tpsit": [
+        4,
+        4,
+        4,
+        7
+      ],
+      "Telecomunicazioni": [
+        9,
+        2,
+        5,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 455963,
+    "nome": "Alessandra",
+    "cognome": "Pugliese",
+    "data_nascita": "2007-12-06T23:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        3,
+        8,
+        5,
+        2
+      ],
+      "Storia": [
+        2,
+        4,
+        2,
+        9
+      ],
+      "Matematica": [
+        2,
+        7,
+        3,
+        9
+      ],
+      "Inglese": [
+        2,
+        2,
+        3,
+        2
+      ],
+      "Informatica": [
+        3,
+        2,
+        9,
+        5
+      ],
+      "Sistemi e Reti": [
+        7,
+        2,
+        4,
+        4
+      ],
+      "Tpsit": [
+        7,
+        7,
+        8,
+        5
+      ],
+      "Telecomunicazioni": [
+        8,
+        2,
+        3,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 190196,
+    "nome": "Ilaria",
+    "cognome": "Veneto",
+    "data_nascita": "2008-08-15T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        7,
+        2,
+        6,
+        9
+      ],
+      "Storia": [
+        9,
+        5,
+        3,
+        9
+      ],
+      "Matematica": [
+        7,
+        9,
+        6,
+        2
+      ],
+      "Inglese": [
+        7,
+        9,
+        4,
+        8
+      ],
+      "Informatica": [
+        2,
+        5,
+        5,
+        2
+      ],
+      "Sistemi e Reti": [
+        3,
+        3,
+        2,
+        2
+      ],
+      "Tpsit": [
+        2,
+        9,
+        9,
+        2
+      ],
+      "Telecomunicazioni": [
+        3,
+        7,
+        4,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 303451,
+    "nome": "Samantha",
+    "cognome": "Calabrese",
+    "data_nascita": "2007-02-24T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        4,
+        3,
+        2,
+        4
+      ],
+      "Storia": [
+        6,
+        2,
+        5,
+        4
+      ],
+      "Matematica": [
+        5,
+        9,
+        7,
+        8
+      ],
+      "Inglese": [
+        5,
+        2,
+        2,
+        3
+      ],
+      "Informatica": [
+        2,
+        2,
+        2,
+        4
+      ],
+      "Sistemi e Reti": [
+        2,
+        3,
+        9,
+        2
+      ],
+      "Tpsit": [
+        7,
+        2,
+        5,
+        2
+      ],
+      "Telecomunicazioni": [
+        4,
+        7,
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 379320,
+    "nome": "Veronica",
+    "cognome": "Siciliano",
+    "data_nascita": "2007-01-04T23:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        5,
+        8,
+        7
+      ],
+      "Storia": [
+        5,
+        5,
+        3,
+        4
+      ],
+      "Matematica": [
+        6,
+        8,
+        3,
+        5
+      ],
+      "Inglese": [
+        3,
+        7,
+        4,
+        2
+      ],
+      "Informatica": [
+        2,
+        4,
+        5,
+        5
+      ],
+      "Sistemi e Reti": [
+        8,
+        9,
+        7,
+        3
+      ],
+      "Tpsit": [
+        5,
+        2,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        3,
+        5,
+        8,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 124860,
+    "nome": "Alessia",
+    "cognome": "Piemontese",
+    "data_nascita": "2008-10-15T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        9,
+        2,
+        2,
+        6
+      ],
+      "Storia": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Matematica": [
+        9,
+        2,
+        4,
+        5
+      ],
+      "Inglese": [
+        2,
+        8,
+        2,
+        2
+      ],
+      "Informatica": [
+        6,
+        3,
+        8,
+        6
+      ],
+      "Sistemi e Reti": [
+        7,
+        5,
+        2,
+        5
+      ],
+      "Tpsit": [
+        3,
+        3,
+        2,
+        7
+      ],
+      "Telecomunicazioni": [
+        2,
+        7,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 476193,
+    "nome": "Silvia",
+    "cognome": "Sardo",
+    "data_nascita": "2008-05-10T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        3,
+        7,
+        7,
+        7
+      ],
+      "Storia": [
+        2,
+        4,
+        2,
+        7
+      ],
+      "Matematica": [
+        2,
+        4,
+        9,
+        5
+      ],
+      "Inglese": [
+        4,
+        8,
+        2,
+        2
+      ],
+      "Informatica": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "Sistemi e Reti": [
+        7,
+        2,
+        9,
+        5
+      ],
+      "Tpsit": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "Telecomunicazioni": [
+        2,
+        7,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 371807,
+    "nome": "Noemi",
+    "cognome": "Marchigiano",
+    "data_nascita": "2008-10-06T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        4,
+        2,
+        2,
+        6
+      ],
+      "Storia": [
+        5,
+        5,
+        7,
+        3
+      ],
+      "Matematica": [
+        8,
+        2,
+        8,
+        2
+      ],
+      "Inglese": [
+        9,
+        9,
+        9,
+        2
+      ],
+      "Informatica": [
+        5,
+        8,
+        5,
+        6
+      ],
+      "Sistemi e Reti": [
+        2,
+        7,
+        6,
+        3
+      ],
+      "Tpsit": [
+        3,
+        2,
+        7,
+        2
+      ],
+      "Telecomunicazioni": [
+        4,
+        8,
+        4,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 635804,
+    "nome": "Ambra",
+    "cognome": "Fabbri",
+    "data_nascita": "2007-01-09T23:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        3,
+        7,
+        9,
+        2
+      ],
+      "Storia": [
+        6,
+        4,
+        2,
+        8
+      ],
+      "Matematica": [
+        2,
+        2,
+        4,
+        9
+      ],
+      "Inglese": [
+        2,
+        5,
+        2,
+        9
+      ],
+      "Informatica": [
+        8,
+        8,
+        3,
+        3
+      ],
+      "Sistemi e Reti": [
+        2,
+        5,
+        4,
+        9
+      ],
+      "Tpsit": [
+        2,
+        2,
+        8,
+        6
+      ],
+      "Telecomunicazioni": [
+        5,
+        4,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 284001,
+    "nome": "Ginevra",
+    "cognome": "Ferrari",
+    "data_nascita": "2007-04-01T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        4,
+        4,
+        5,
+        4
+      ],
+      "Storia": [
+        7,
+        7,
+        7,
+        2
+      ],
+      "Matematica": [
+        7,
+        5,
+        9,
+        8
+      ],
+      "Inglese": [
+        2,
+        3,
+        9,
+        2
+      ],
+      "Informatica": [
+        6,
+        8,
+        6,
+        2
+      ],
+      "Sistemi e Reti": [
+        2,
+        9,
+        2,
+        3
+      ],
+      "Tpsit": [
+        2,
+        8,
+        9,
+        8
+      ],
+      "Telecomunicazioni": [
+        2,
+        7,
+        6,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 536705,
+    "nome": "Ludovica",
+    "cognome": "Rossi (rosso)",
+    "data_nascita": "2008-03-21T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        3,
+        5,
+        3
+      ],
+      "Storia": [
+        9,
+        3,
+        5,
+        7
+      ],
+      "Matematica": [
+        8,
+        4,
+        6,
+        2
+      ],
+      "Inglese": [
+        8,
+        9,
+        9,
+        9
+      ],
+      "Informatica": [
+        4,
+        9,
+        8,
+        3
+      ],
+      "Sistemi e Reti": [
+        9,
+        2,
+        9,
+        5
+      ],
+      "Tpsit": [
+        2,
+        2,
+        7,
+        5
+      ],
+      "Telecomunicazioni": [
+        7,
+        8,
+        2,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 374225,
+    "nome": "Rebecca",
+    "cognome": "Bianchi (bianco)",
+    "data_nascita": "2008-08-21T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        9,
+        8,
+        9,
+        7
+      ],
+      "Storia": [
+        2,
+        4,
+        5,
+        5
+      ],
+      "Matematica": [
+        4,
+        7,
+        4,
+        9
+      ],
+      "Inglese": [
+        5,
+        2,
+        7,
+        6
+      ],
+      "Informatica": [
+        4,
+        7,
+        5,
+        4
+      ],
+      "Sistemi e Reti": [
+        5,
+        4,
+        8,
+        2
+      ],
+      "Tpsit": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        2,
+        3,
+        4,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 348782,
+    "nome": "Martina",
+    "cognome": "Barbieri",
+    "data_nascita": "2007-02-20T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        6,
+        6,
+        9,
+        3
+      ],
+      "Storia": [
+        2,
+        9,
+        4,
+        4
+      ],
+      "Matematica": [
+        4,
+        4,
+        3,
+        2
+      ],
+      "Inglese": [
+        3,
+        2,
+        5,
+        3
+      ],
+      "Informatica": [
+        5,
+        9,
+        9,
+        5
+      ],
+      "Sistemi e Reti": [
+        2,
+        2,
+        4,
+        7
+      ],
+      "Tpsit": [
+        9,
+        9,
+        9,
+        4
+      ],
+      "Telecomunicazioni": [
+        2,
+        2,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 602955,
+    "nome": "Cecilia",
+    "cognome": "Sartori",
+    "data_nascita": "2007-07-31T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        3,
+        2,
+        2,
+        9
+      ],
+      "Storia": [
+        2,
+        2,
+        7,
+        3
+      ],
+      "Matematica": [
+        2,
+        7,
+        4,
+        9
+      ],
+      "Inglese": [
+        9,
+        7,
+        8,
+        5
+      ],
+      "Informatica": [
+        7,
+        7,
+        4,
+        3
+      ],
+      "Sistemi e Reti": [
+        7,
+        6,
+        4,
+        8
+      ],
+      "Tpsit": [
+        4,
+        2,
+        4,
+        9
+      ],
+      "Telecomunicazioni": [
+        7,
+        2,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 343917,
+    "nome": "Eleonora",
+    "cognome": "Fattori",
+    "data_nascita": "2007-02-09T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        6,
+        4,
+        4,
+        5
+      ],
+      "Storia": [
+        2,
+        2,
+        4,
+        5
+      ],
+      "Matematica": [
+        9,
+        4,
+        3,
+        5
+      ],
+      "Inglese": [
+        8,
+        8,
+        5,
+        9
+      ],
+      "Informatica": [
+        4,
+        8,
+        4,
+        8
+      ],
+      "Sistemi e Reti": [
+        2,
+        7,
+        2,
+        8
+      ],
+      "Tpsit": [
+        3,
+        5,
+        8,
+        9
+      ],
+      "Telecomunicazioni": [
+        9,
+        2,
+        6,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 385969,
+    "nome": "Cristina",
+    "cognome": "Molinari",
+    "data_nascita": "2008-01-08T23:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        5,
+        2,
+        2,
+        2
+      ],
+      "Storia": [
+        6,
+        2,
+        6,
+        3
+      ],
+      "Matematica": [
+        2,
+        7,
+        9,
+        2
+      ],
+      "Inglese": [
+        5,
+        2,
+        9,
+        3
+      ],
+      "Informatica": [
+        5,
+        9,
+        5,
+        9
+      ],
+      "Sistemi e Reti": [
+        7,
+        2,
+        3,
+        6
+      ],
+      "Tpsit": [
+        5,
+        2,
+        6,
+        8
+      ],
+      "Telecomunicazioni": [
+        2,
+        5,
+        4,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 486972,
+    "nome": "Gaia",
+    "cognome": "Fornari",
+    "data_nascita": "2007-02-16T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        3,
+        7,
+        2
+      ],
+      "Storia": [
+        5,
+        2,
+        4,
+        2
+      ],
+      "Matematica": [
+        8,
+        2,
+        5,
+        7
+      ],
+      "Inglese": [
+        3,
+        2,
+        8,
+        2
+      ],
+      "Informatica": [
+        3,
+        5,
+        3,
+        2
+      ],
+      "Sistemi e Reti": [
+        6,
+        5,
+        2,
+        4
+      ],
+      "Tpsit": [
+        4,
+        5,
+        7,
+        4
+      ],
+      "Telecomunicazioni": [
+        6,
+        2,
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 563789,
+    "nome": "Arianna",
+    "cognome": "Pastori",
+    "data_nascita": "2007-02-02T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        2,
+        6
+      ],
+      "Storia": [
+        5,
+        9,
+        6,
+        6
+      ],
+      "Matematica": [
+        5,
+        3,
+        7,
+        2
+      ],
+      "Inglese": [
+        5,
+        7,
+        2,
+        2
+      ],
+      "Informatica": [
+        4,
+        6,
+        7,
+        5
+      ],
+      "Sistemi e Reti": [
+        2,
+        2,
+        6,
+        5
+      ],
+      "Tpsit": [
+        8,
+        2,
+        6,
+        3
+      ],
+      "Telecomunicazioni": [
+        2,
+        8,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 315892,
+    "nome": "Aurora",
+    "cognome": "Rossi (rosso)",
+    "data_nascita": "2007-06-01T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        5,
+        5,
+        6,
+        4
+      ],
+      "Storia": [
+        5,
+        4,
+        2,
+        2
+      ],
+      "Matematica": [
+        2,
+        4,
+        7,
+        3
+      ],
+      "Inglese": [
+        4,
+        3,
+        2,
+        4
+      ],
+      "Informatica": [
+        2,
+        5,
+        4,
+        9
+      ],
+      "Sistemi e Reti": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "Tpsit": [
+        9,
+        5,
+        2,
+        3
+      ],
+      "Telecomunicazioni": [
+        5,
+        4,
+        4,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 291420,
+    "nome": "Beatrice",
+    "cognome": "Bianchi (bianco)",
+    "data_nascita": "2008-10-14T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        7,
+        2,
+        9,
+        9
+      ],
+      "Storia": [
+        3,
+        9,
+        2,
+        7
+      ],
+      "Matematica": [
+        8,
+        3,
+        3,
+        9
+      ],
+      "Inglese": [
+        2,
+        2,
+        4,
+        8
+      ],
+      "Informatica": [
+        8,
+        2,
+        6,
+        4
+      ],
+      "Sistemi e Reti": [
+        7,
+        2,
+        6,
+        2
+      ],
+      "Tpsit": [
+        2,
+        2,
+        5,
+        9
+      ],
+      "Telecomunicazioni": [
+        8,
+        9,
+        4,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 149445,
+    "nome": "Camilla",
+    "cognome": "Nero",
+    "data_nascita": "2007-06-11T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        5,
+        2,
+        2
+      ],
+      "Storia": [
+        7,
+        9,
+        2,
+        5
+      ],
+      "Matematica": [
+        2,
+        4,
+        4,
+        2
+      ],
+      "Inglese": [
+        2,
+        9,
+        8,
+        2
+      ],
+      "Informatica": [
+        2,
+        8,
+        2,
+        2
+      ],
+      "Sistemi e Reti": [
+        7,
+        3,
+        2,
+        7
+      ],
+      "Tpsit": [
+        8,
+        5,
+        7,
+        2
+      ],
+      "Telecomunicazioni": [
+        6,
+        3,
+        9,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 289733,
+    "nome": "Sofia",
+    "cognome": "Bruno",
+    "data_nascita": "2008-07-24T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        9,
+        9,
+        6,
+        8
+      ],
+      "Storia": [
+        9,
+        2,
+        5,
+        5
+      ],
+      "Matematica": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Inglese": [
+        5,
+        2,
+        4,
+        5
+      ],
+      "Informatica": [
+        5,
+        4,
+        2,
+        9
+      ],
+      "Sistemi e Reti": [
+        8,
+        3,
+        2,
+        6
+      ],
+      "Tpsit": [
+        5,
+        2,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        7,
+        8,
+        8,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 526452,
+    "nome": "Giulia",
+    "cognome": "Biondi",
+    "data_nascita": "2007-11-15T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        7,
+        2,
+        2,
+        5
+      ],
+      "Storia": [
+        5,
+        2,
+        3,
+        6
+      ],
+      "Matematica": [
+        3,
+        2,
+        6,
+        3
+      ],
+      "Inglese": [
+        6,
+        2,
+        6,
+        8
+      ],
+      "Informatica": [
+        7,
+        3,
+        8,
+        5
+      ],
+      "Sistemi e Reti": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Tpsit": [
+        6,
+        2,
+        7,
+        7
+      ],
+      "Telecomunicazioni": [
+        3,
+        6,
+        8,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 641046,
+    "nome": "Emma",
+    "cognome": "Russo",
+    "data_nascita": "2008-10-11T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        8,
+        7,
+        6,
+        6
+      ],
+      "Storia": [
+        2,
+        6,
+        2,
+        2
+      ],
+      "Matematica": [
+        4,
+        2,
+        7,
+        9
+      ],
+      "Inglese": [
+        8,
+        6,
+        2,
+        2
+      ],
+      "Informatica": [
+        5,
+        5,
+        9,
+        3
+      ],
+      "Sistemi e Reti": [
+        2,
+        8,
+        7,
+        9
+      ],
+      "Tpsit": [
+        3,
+        5,
+        2,
+        4
+      ],
+      "Telecomunicazioni": [
+        4,
+        2,
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 501011,
+    "nome": "Elena",
+    "cognome": "Piccolo",
+    "data_nascita": "2007-10-12T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        7,
+        4,
+        7,
+        7
+      ],
+      "Storia": [
+        2,
+        7,
+        2,
+        5
+      ],
+      "Matematica": [
+        4,
+        5,
+        4,
+        2
+      ],
+      "Inglese": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "Informatica": [
+        2,
+        3,
+        6,
+        8
+      ],
+      "Sistemi e Reti": [
+        9,
+        2,
+        2,
+        7
+      ],
+      "Tpsit": [
+        5,
+        8,
+        6,
+        3
+      ],
+      "Telecomunicazioni": [
+        2,
+        7,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 408505,
+    "nome": "Alice",
+    "cognome": "Grande",
+    "data_nascita": "2007-03-01T23:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        7,
+        2,
+        5,
+        6
+      ],
+      "Storia": [
+        2,
+        4,
+        6,
+        7
+      ],
+      "Matematica": [
+        4,
+        8,
+        2,
+        2
+      ],
+      "Inglese": [
+        5,
+        9,
+        5,
+        7
+      ],
+      "Informatica": [
+        3,
+        4,
+        2,
+        3
+      ],
+      "Sistemi e Reti": [
+        8,
+        2,
+        2,
+        8
+      ],
+      "Tpsit": [
+        8,
+        9,
+        4,
+        8
+      ],
+      "Telecomunicazioni": [
+        6,
+        7,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 388039,
+    "nome": "Martina",
+    "cognome": "Gentile",
+    "data_nascita": "2008-10-13T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        6,
+        5,
+        3,
+        8
+      ],
+      "Storia": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "Matematica": [
+        2,
+        2,
+        2,
+        6
+      ],
+      "Inglese": [
+        9,
+        3,
+        2,
+        3
+      ],
+      "Informatica": [
+        2,
+        2,
+        2,
+        4
+      ],
+      "Sistemi e Reti": [
+        2,
+        6,
+        5,
+        9
+      ],
+      "Tpsit": [
+        9,
+        7,
+        9,
+        6
+      ],
+      "Telecomunicazioni": [
+        2,
+        6,
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 566159,
+    "nome": "Alessandro",
+    "cognome": "Forte",
+    "data_nascita": "2007-04-02T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        4,
+        9,
+        2,
+        6
+      ],
+      "Storia": [
+        7,
+        2,
+        2,
+        7
+      ],
+      "Matematica": [
+        9,
+        2,
+        2,
+        5
+      ],
+      "Inglese": [
+        9,
+        3,
+        2,
+        2
+      ],
+      "Informatica": [
+        7,
+        2,
+        8,
+        6
+      ],
+      "Sistemi e Reti": [
+        3,
+        9,
+        3,
+        9
+      ],
+      "Tpsit": [
+        2,
+        8,
+        2,
+        9
+      ],
+      "Telecomunicazioni": [
+        7,
+        8,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 288525,
+    "nome": "Marco",
+    "cognome": "Coppola",
+    "data_nascita": "2007-09-13T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        6,
+        6,
+        6,
+        2
+      ],
+      "Storia": [
+        2,
+        7,
+        2,
+        2
+      ],
+      "Matematica": [
+        4,
+        6,
+        5,
+        6
+      ],
+      "Inglese": [
+        9,
+        2,
+        3,
+        5
+      ],
+      "Informatica": [
+        6,
+        5,
+        3,
+        2
+      ],
+      "Sistemi e Reti": [
+        2,
+        9,
+        8,
+        2
+      ],
+      "Tpsit": [
+        8,
+        2,
+        7,
+        3
+      ],
+      "Telecomunicazioni": [
+        7,
+        2,
+        6,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 179623,
+    "nome": "Andrea",
+    "cognome": "Esposito",
+    "data_nascita": "2008-09-14T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        7,
+        3,
+        6,
+        2
+      ],
+      "Storia": [
+        6,
+        2,
+        6,
+        4
+      ],
+      "Matematica": [
+        9,
+        6,
+        3,
+        3
+      ],
+      "Inglese": [
+        2,
+        5,
+        4,
+        3
+      ],
+      "Informatica": [
+        5,
+        4,
+        2,
+        5
+      ],
+      "Sistemi e Reti": [
+        3,
+        4,
+        5,
+        8
+      ],
+      "Tpsit": [
+        8,
+        8,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        8,
+        7,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 381631,
+    "nome": "Lorenzo",
+    "cognome": "Bellucci",
+    "data_nascita": "2008-08-25T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        8,
+        2,
+        2
+      ],
+      "Storia": [
+        2,
+        5,
+        2,
+        2
+      ],
+      "Matematica": [
+        9,
+        6,
+        2,
+        2
+      ],
+      "Inglese": [
+        3,
+        5,
+        4,
+        4
+      ],
+      "Informatica": [
+        2,
+        4,
+        2,
+        8
+      ],
+      "Sistemi e Reti": [
+        7,
+        9,
+        8,
+        6
+      ],
+      "Tpsit": [
+        3,
+        4,
+        6,
+        2
+      ],
+      "Telecomunicazioni": [
+        6,
+        2,
+        3,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 342205,
+    "nome": "Francesco",
+    "cognome": "Esposito",
+    "data_nascita": "2008-02-22T23:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        7,
+        7,
+        2,
+        2
+      ],
+      "Storia": [
+        7,
+        8,
+        2,
+        2
+      ],
+      "Matematica": [
+        2,
+        8,
+        3,
+        8
+      ],
+      "Inglese": [
+        4,
+        2,
+        2,
+        3
+      ],
+      "Informatica": [
+        3,
+        6,
+        5,
+        9
+      ],
+      "Sistemi e Reti": [
+        4,
+        8,
+        3,
+        2
+      ],
+      "Tpsit": [
+        8,
+        2,
+        2,
+        6
+      ],
+      "Telecomunicazioni": [
+        2,
+        8,
+        8,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 458185,
+    "nome": "Matteo",
+    "cognome": "Colombo",
+    "data_nascita": "2007-04-18T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        9,
+        4,
+        4,
+        4
+      ],
+      "Storia": [
+        2,
+        9,
+        3,
+        7
+      ],
+      "Matematica": [
+        7,
+        9,
+        2,
+        7,
+        8
+      ],
+      "Inglese": [
+        6,
+        8,
+        4,
+        2
+      ],
+      "Informatica": [
+        5,
+        2,
+        2,
+        6
+      ],
+      "Sistemi e Reti": [
+        6,
+        2,
+        7,
+        8
+      ],
+      "Tpsit": [
+        6,
+        8,
+        6,
+        8
+      ],
+      "Telecomunicazioni": [
+        6,
+        4,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 573508,
+    "nome": "Luca",
+    "cognome": "Esposito",
+    "data_nascita": "2007-05-13T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        7,
+        5,
+        2,
+        2
+      ],
+      "Storia": [
+        8,
+        4,
+        5,
+        2
+      ],
+      "Matematica": [
+        4,
+        2,
+        7,
+        9
+      ],
+      "Inglese": [
+        3,
+        9,
+        2,
+        8
+      ],
+      "Informatica": [
+        6,
+        5,
+        3,
+        9
+      ],
+      "Sistemi e Reti": [
+        5,
+        8,
+        2,
+        2
+      ],
+      "Tpsit": [
+        9,
+        4,
+        8,
+        4
+      ],
+      "Telecomunicazioni": [
+        5,
+        3,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 436240,
+    "nome": "Daniele",
+    "cognome": "Russo",
+    "data_nascita": "2008-06-09T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        4,
+        6,
+        7,
+        3
+      ],
+      "Storia": [
+        6,
+        5,
+        9,
+        2
+      ],
+      "Matematica": [
+        6,
+        2,
+        2,
+        6
+      ],
+      "Inglese": [
+        2,
+        9,
+        2,
+        8
+      ],
+      "Informatica": [
+        2,
+        8,
+        7,
+        2
+      ],
+      "Sistemi e Reti": [
+        7,
+        4,
+        2,
+        7
+      ],
+      "Tpsit": [
+        9,
+        8,
+        2,
+        3
+      ],
+      "Telecomunicazioni": [
+        2,
+        8,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 403864,
+    "nome": "Gabriele",
+    "cognome": "Esposito",
+    "data_nascita": "2007-06-19T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        6,
+        4
+      ],
+      "Storia": [
+        2,
+        8,
+        8,
+        5
+      ],
+      "Matematica": [
+        8,
+        2,
+        5,
+        6
+      ],
+      "Inglese": [
+        2,
+        5,
+        7,
+        7
+      ],
+      "Informatica": [
+        3,
+        9,
+        2,
+        2
+      ],
+      "Sistemi e Reti": [
+        4,
+        3,
+        3,
+        3
+      ],
+      "Tpsit": [
+        2,
+        8,
+        8,
+        2
+      ],
+      "Telecomunicazioni": [
+        5,
+        3,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 193401,
+    "nome": "Riccardo",
+    "cognome": "Bianchi",
+    "data_nascita": "2008-05-02T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        3,
+        4,
+        8,
+        8
+      ],
+      "Storia": [
+        6,
+        6,
+        4,
+        6
+      ],
+      "Matematica": [
+        9,
+        6,
+        2,
+        2
+      ],
+      "Inglese": [
+        2,
+        6,
+        6,
+        3
+      ],
+      "Informatica": [
+        9,
+        2,
+        9,
+        6
+      ],
+      "Sistemi e Reti": [
+        4,
+        4,
+        8,
+        3
+      ],
+      "Tpsit": [
+        5,
+        4,
+        2,
+        3
+      ],
+      "Telecomunicazioni": [
+        2,
+        6,
+        7,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 287688,
+    "nome": "Nicolò",
+    "cognome": "Russo",
+    "data_nascita": "2007-09-03T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        9,
+        6,
+        7,
+        8
+      ],
+      "Storia": [
+        4,
+        2,
+        4,
+        2
+      ],
+      "Matematica": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "Inglese": [
+        4,
+        5,
+        5,
+        3
+      ],
+      "Informatica": [
+        9,
+        5,
+        2,
+        5
+      ],
+      "Sistemi e Reti": [
+        2,
+        4,
+        6,
+        2
+      ],
+      "Tpsit": [
+        7,
+        2,
+        8,
+        8
+      ],
+      "Telecomunicazioni": [
+        5,
+        9,
+        4,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 145797,
+    "nome": "Davide",
+    "cognome": "Rossi",
+    "data_nascita": "2007-03-05T23:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "Storia": [
+        2,
+        2,
+        9,
+        6
+      ],
+      "Matematica": [
+        6,
+        3,
+        9,
+        3
+      ],
+      "Inglese": [
+        5,
+        6,
+        2,
+        9
+      ],
+      "Informatica": [
+        9,
+        4,
+        3,
+        9
+      ],
+      "Sistemi e Reti": [
+        3,
+        2,
+        9,
+        2
+      ],
+      "Tpsit": [
+        9,
+        4,
+        2,
+        9
+      ],
+      "Telecomunicazioni": [
+        4,
+        6,
+        5,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 616630,
+    "nome": "Simone",
+    "cognome": "Russo",
+    "data_nascita": "2007-05-24T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        6,
+        2,
+        4,
+        3
+      ],
+      "Storia": [
+        4,
+        7,
+        5,
+        5
+      ],
+      "Matematica": [
+        4,
+        8,
+        5,
+        8
+      ],
+      "Inglese": [
+        4,
+        2,
+        7,
+        5
+      ],
+      "Informatica": [
+        4,
+        4,
+        9,
+        2
+      ],
+      "Sistemi e Reti": [
+        6,
+        2,
+        4,
+        6
+      ],
+      "Tpsit": [
+        2,
+        5,
+        9,
+        8
+      ],
+      "Telecomunicazioni": [
+        5,
+        3,
+        5,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 341281,
+    "nome": "Fabio",
+    "cognome": "Colombo",
+    "data_nascita": "2007-06-08T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        7,
+        9,
+        9
+      ],
+      "Storia": [
+        8,
+        8,
+        5,
+        2
+      ],
+      "Matematica": [
+        5,
+        2,
+        6,
+        9
+      ],
+      "Inglese": [
+        2,
+        2,
+        6,
+        6
+      ],
+      "Informatica": [
+        6,
+        7,
+        3,
+        9
+      ],
+      "Sistemi e Reti": [
+        8,
+        9,
+        2,
+        8
+      ],
+      "Tpsit": [
+        8,
+        2,
+        5,
+        2
+      ],
+      "Telecomunicazioni": [
+        2,
+        9,
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 640790,
+    "nome": "Alberto",
+    "cognome": "Esposito",
+    "data_nascita": "2007-08-24T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        2,
+        10
+      ],
+      "Storia": [
+        7,
+        6,
+        7,
+        2
+      ],
+      "Matematica": [
+        6,
+        3,
+        2,
+        5
+      ],
+      "Inglese": [
+        2,
+        5,
+        5,
+        2
+      ],
+      "Informatica": [
+        2,
+        3,
+        6,
+        7
+      ],
+      "Sistemi e Reti": [
+        3,
+        6,
+        5,
+        3
+      ],
+      "Tpsit": [
+        7,
+        4,
+        4,
+        4
+      ],
+      "Telecomunicazioni": [
+        4,
+        9,
+        3,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 135944,
+    "nome": "Gianmarco",
+    "cognome": "Bianchi",
+    "data_nascita": "2007-06-04T22:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "3CII",
+    "voti": {
+      "Storia": [
+        2,
+        8,
+        9,
+        6
+      ],
+      "Matematica": [
+        4,
+        8,
+        2,
+        7
+      ],
+      "Inglese": [
+        4,
+        7,
+        4,
+        5
+      ],
+      "Informatica": [
+        7,
+        2,
+        7,
+        2
+      ],
+      "Sistemi e Reti": [
+        5,
+        7,
+        2,
+        9
+      ],
+      "Tpsit": [
+        2,
+        2,
+        4,
+        2
+      ],
+      "Telecomunicazioni": [
+        3,
+        4,
+        6,
+        4
+      ],
+      "Italiano": [
+        9,
+        6,
+        2,
+        6,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 346124,
+    "nome": "Enrico",
+    "cognome": "Ferrari",
+    "data_nascita": "2007-12-26T23:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        6,
+        2,
+        7,
+        2
+      ],
+      "Storia": [
+        8,
+        9,
+        7,
+        5
+      ],
+      "Matematica": [
+        2,
+        8,
+        2,
+        7
+      ],
+      "Inglese": [
+        2,
+        4,
+        2,
+        9
+      ],
+      "Informatica": [
+        2,
+        4,
+        3,
+        6
+      ],
+      "Sistemi e Reti": [
+        5,
+        2,
+        6,
+        6
+      ],
+      "Tpsit": [
+        7,
+        2,
+        5,
+        6
+      ],
+      "Telecomunicazioni": [
+        8,
+        5,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 343774,
+    "nome": "Mattia",
+    "cognome": "Romano",
+    "data_nascita": "2007-08-20T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        8,
+        6,
+        9,
+        6
+      ],
+      "Storia": [
+        6,
+        5,
+        2,
+        3
+      ],
+      "Matematica": [
+        8,
+        4,
+        2,
+        4
+      ],
+      "Inglese": [
+        2,
+        2,
+        9,
+        2
+      ],
+      "Informatica": [
+        4,
+        4,
+        6,
+        8
+      ],
+      "Sistemi e Reti": [
+        5,
+        2,
+        2,
+        3
+      ],
+      "Tpsit": [
+        9,
+        5,
+        6,
+        7
+      ],
+      "Telecomunicazioni": [
+        9,
+        3,
+        6,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 404233,
+    "nome": "Edoardo",
+    "cognome": "Ricci",
+    "data_nascita": "2007-09-19T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        9,
+        2,
+        2,
+        2
+      ],
+      "Storia": [
+        2,
+        2,
+        2,
+        6
+      ],
+      "Matematica": [
+        9,
+        5,
+        4,
+        2
+      ],
+      "Inglese": [
+        2,
+        5,
+        6,
+        2
+      ],
+      "Informatica": [
+        6,
+        2,
+        7,
+        2
+      ],
+      "Sistemi e Reti": [
+        5,
+        4,
+        8,
+        2
+      ],
+      "Tpsit": [
+        4,
+        9,
+        3,
+        2
+      ],
+      "Telecomunicazioni": [
+        8,
+        2,
+        4,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 160639,
+    "nome": "Tommaso",
+    "cognome": "Lombardi",
+    "data_nascita": "2007-12-16T23:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        9,
+        3,
+        3,
+        2
+      ],
+      "Storia": [
+        9,
+        2,
+        5,
+        8
+      ],
+      "Matematica": [
+        2,
+        7,
+        6,
+        7
+      ],
+      "Inglese": [
+        2,
+        2,
+        4,
+        6
+      ],
+      "Informatica": [
+        5,
+        7,
+        3,
+        9
+      ],
+      "Sistemi e Reti": [
+        2,
+        3,
+        3,
+        2
+      ],
+      "Tpsit": [
+        3,
+        7,
+        2,
+        5
+      ],
+      "Telecomunicazioni": [
+        9,
+        3,
+        6,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 473210,
+    "nome": "Alessio",
+    "cognome": "Mancini",
+    "data_nascita": "2008-07-05T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        4,
+        2,
+        9,
+        8
+      ],
+      "Storia": [
+        2,
+        2,
+        5,
+        4
+      ],
+      "Matematica": [
+        7,
+        2,
+        5,
+        8
+      ],
+      "Inglese": [
+        7,
+        2,
+        4,
+        5
+      ],
+      "Informatica": [
+        2,
+        4,
+        9,
+        8
+      ],
+      "Sistemi e Reti": [
+        7,
+        8,
+        3,
+        3
+      ],
+      "Tpsit": [
+        7,
+        8,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        8,
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 498327,
+    "nome": "Samuele",
+    "cognome": "Marino",
+    "data_nascita": "2007-08-11T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        7,
+        2,
+        3
+      ],
+      "Storia": [
+        9,
+        8,
+        6,
+        9
+      ],
+      "Matematica": [
+        4,
+        7,
+        2,
+        3
+      ],
+      "Inglese": [
+        9,
+        6,
+        2,
+        4
+      ],
+      "Informatica": [
+        2,
+        8,
+        2,
+        8
+      ],
+      "Sistemi e Reti": [
+        2,
+        5,
+        4,
+        8
+      ],
+      "Tpsit": [
+        2,
+        5,
+        6,
+        5
+      ],
+      "Telecomunicazioni": [
+        8,
+        8,
+        8,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 516396,
+    "nome": "Filippo",
+    "cognome": "Greco",
+    "data_nascita": "2007-10-01T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        4,
+        5,
+        6,
+        8,
+        10
+      ],
+      "Storia": [
+        6,
+        2,
+        4,
+        5
+      ],
+      "Matematica": [
+        8,
+        7,
+        4,
+        8
+      ],
+      "Inglese": [
+        4,
+        8,
+        2,
+        5
+      ],
+      "Informatica": [
+        3,
+        6,
+        2,
+        5
+      ],
+      "Sistemi e Reti": [
+        2,
+        2,
+        7,
+        6
+      ],
+      "Tpsit": [
+        4,
+        3,
+        2,
+        5
+      ],
+      "Telecomunicazioni": [
+        8,
+        2,
+        5,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 143638,
+    "nome": "Giovanni",
+    "cognome": "Bruno",
+    "data_nascita": "2008-07-02T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        3,
+        9,
+        3,
+        2
+      ],
+      "Storia": [
+        8,
+        7,
+        7,
+        5
+      ],
+      "Matematica": [
+        2,
+        5,
+        6,
+        2
+      ],
+      "Inglese": [
+        8,
+        2,
+        3,
+        6
+      ],
+      "Informatica": [
+        4,
+        7,
+        2,
+        2
+      ],
+      "Sistemi e Reti": [
+        2,
+        7,
+        2,
+        2
+      ],
+      "Tpsit": [
+        8,
+        9,
+        3,
+        3
+      ],
+      "Telecomunicazioni": [
+        9,
+        8,
+        8,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 223349,
+    "nome": "Federico",
+    "cognome": "Conti",
+    "data_nascita": "2007-07-06T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        5,
+        2,
+        8
+      ],
+      "Storia": [
+        5,
+        5,
+        4,
+        5
+      ],
+      "Matematica": [
+        2,
+        7,
+        5,
+        4
+      ],
+      "Inglese": [
+        4,
+        4,
+        6,
+        8
+      ],
+      "Informatica": [
+        3,
+        5,
+        5,
+        2
+      ],
+      "Sistemi e Reti": [
+        2,
+        7,
+        4,
+        6
+      ],
+      "Tpsit": [
+        5,
+        8,
+        7,
+        4
+      ],
+      "Telecomunicazioni": [
+        8,
+        5,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 590029,
+    "nome": "Luca",
+    "cognome": "De Luca",
+    "data_nascita": "2007-12-04T23:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        9,
+        4
+      ],
+      "Storia": [
+        5,
+        5,
+        3,
+        2
+      ],
+      "Matematica": [
+        6,
+        3,
+        5,
+        5
+      ],
+      "Inglese": [
+        3,
+        7,
+        6,
+        8
+      ],
+      "Informatica": [
+        6,
+        7,
+        6,
+        2
+      ],
+      "Sistemi e Reti": [
+        7,
+        6,
+        3,
+        9
+      ],
+      "Tpsit": [
+        2,
+        2,
+        7,
+        5
+      ],
+      "Telecomunicazioni": [
+        8,
+        8,
+        4,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 321566,
+    "nome": "Stefano",
+    "cognome": "Cairo",
+    "data_nascita": "2007-10-31T23:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        7,
+        7,
+        6,
+        2
+      ],
+      "Storia": [
+        8,
+        6,
+        7,
+        7
+      ],
+      "Matematica": [
+        3,
+        6,
+        4,
+        7
+      ],
+      "Inglese": [
+        9,
+        5,
+        9,
+        7
+      ],
+      "Informatica": [
+        8,
+        3,
+        7,
+        5
+      ],
+      "Sistemi e Reti": [
+        6,
+        2,
+        4,
+        2
+      ],
+      "Tpsit": [
+        3,
+        9,
+        2,
+        5
+      ],
+      "Telecomunicazioni": [
+        2,
+        9,
+        4,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 302221,
+    "nome": "Marco",
+    "cognome": "Costa",
+    "data_nascita": "2008-04-07T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        5,
+        2,
+        8,
+        4
+      ],
+      "Storia": [
+        6,
+        4,
+        5,
+        2
+      ],
+      "Matematica": [
+        4,
+        2,
+        8,
+        8
+      ],
+      "Inglese": [
+        9,
+        2,
+        3,
+        2
+      ],
+      "Informatica": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "Sistemi e Reti": [
+        6,
+        3,
+        9,
+        7
+      ],
+      "Tpsit": [
+        8,
+        7,
+        6,
+        9
+      ],
+      "Telecomunicazioni": [
+        2,
+        5,
+        3,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 124682,
+    "nome": "Giacomo",
+    "cognome": "Fontana",
+    "data_nascita": "2008-01-04T23:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        3,
+        2,
+        8,
+        9
+      ],
+      "Storia": [
+        4,
+        6,
+        5,
+        7
+      ],
+      "Matematica": [
+        9,
+        5,
+        5,
+        2
+      ],
+      "Inglese": [
+        8,
+        5,
+        4,
+        7
+      ],
+      "Informatica": [
+        7,
+        2,
+        3,
+        9
+      ],
+      "Sistemi e Reti": [
+        7,
+        4,
+        2,
+        5
+      ],
+      "Tpsit": [
+        2,
+        7,
+        2,
+        5
+      ],
+      "Telecomunicazioni": [
+        5,
+        2,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 517270,
+    "nome": "Valerio",
+    "cognome": "Esposito",
+    "data_nascita": "2007-06-04T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Storia": [
+        5,
+        2,
+        9,
+        2
+      ],
+      "Matematica": [
+        3,
+        5,
+        7,
+        6
+      ],
+      "Inglese": [
+        3,
+        2,
+        3,
+        8
+      ],
+      "Informatica": [
+        5,
+        9,
+        6,
+        6
+      ],
+      "Sistemi e Reti": [
+        4,
+        5,
+        9,
+        5
+      ],
+      "Tpsit": [
+        2,
+        5,
+        6,
+        7
+      ],
+      "Telecomunicazioni": [
+        4,
+        8,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 313052,
+    "nome": "Francesco",
+    "cognome": "Bellanova",
+    "data_nascita": "2008-09-26T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        5,
+        3,
+        6,
+        6
+      ],
+      "Storia": [
+        3,
+        4,
+        4,
+        3
+      ],
+      "Matematica": [
+        7,
+        2,
+        3,
+        6
+      ],
+      "Inglese": [
+        4,
+        2,
+        2,
+        6
+      ],
+      "Informatica": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "Sistemi e Reti": [
+        9,
+        5,
+        7,
+        8
+      ],
+      "Tpsit": [
+        6,
+        9,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        8,
+        9,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 249128,
+    "nome": "Elia",
+    "cognome": "Toscano",
+    "data_nascita": "2008-03-20T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        9,
+        5,
+        3
+      ],
+      "Storia": [
+        9,
+        6,
+        9,
+        9
+      ],
+      "Matematica": [
+        2,
+        4,
+        8,
+        5
+      ],
+      "Inglese": [
+        2,
+        9,
+        6,
+        9
+      ],
+      "Informatica": [
+        4,
+        4,
+        7,
+        2
+      ],
+      "Sistemi e Reti": [
+        2,
+        2,
+        9,
+        6
+      ],
+      "Tpsit": [
+        3,
+        8,
+        5,
+        5
+      ],
+      "Telecomunicazioni": [
+        7,
+        2,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 609073,
+    "nome": "Lorenzo",
+    "cognome": "Lombardo",
+    "data_nascita": "2008-12-01T23:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        5,
+        9,
+        9,
+        3
+      ],
+      "Storia": [
+        2,
+        2,
+        3,
+        4
+      ],
+      "Matematica": [
+        4,
+        9,
+        6,
+        7
+      ],
+      "Inglese": [
+        9,
+        2,
+        2,
+        2
+      ],
+      "Informatica": [
+        8,
+        4,
+        2,
+        8
+      ],
+      "Sistemi e Reti": [
+        5,
+        7,
+        4,
+        9
+      ],
+      "Tpsit": [
+        6,
+        2,
+        7,
+        2
+      ],
+      "Telecomunicazioni": [
+        7,
+        3,
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 539833,
+    "nome": "Leonardo",
+    "cognome": "Campano",
+    "data_nascita": "2008-05-08T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        2,
+        7,
+        3,
+        5
+      ],
+      "Storia": [
+        8,
+        2,
+        6,
+        3
+      ],
+      "Matematica": [
+        2,
+        2,
+        5,
+        2
+      ],
+      "Inglese": [
+        2,
+        6,
+        2,
+        6
+      ],
+      "Informatica": [
+        4,
+        8,
+        2,
+        8
+      ],
+      "Sistemi e Reti": [
+        2,
+        3,
+        9,
+        4
+      ],
+      "Tpsit": [
+        8,
+        7,
+        4,
+        8
+      ],
+      "Telecomunicazioni": [
+        2,
+        9,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 581407,
+    "nome": "Gabriele",
+    "cognome": "Pugliese",
+    "data_nascita": "2007-06-26T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        5,
+        2,
+        7,
+        2
+      ],
+      "Storia": [
+        9,
+        9,
+        3,
+        2,
+        6
+      ],
+      "Matematica": [
+        8,
+        5,
+        2,
+        8
+      ],
+      "Inglese": [
+        7,
+        2,
+        4,
+        9
+      ],
+      "Informatica": [
+        2,
+        6,
+        2,
+        6
+      ],
+      "Sistemi e Reti": [
+        2,
+        9,
+        5,
+        8
+      ],
+      "Tpsit": [
+        2,
+        9,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        5,
+        2,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 212270,
+    "nome": "Cristian",
+    "cognome": "Veneto",
+    "data_nascita": "2008-05-23T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        8,
+        6,
+        7,
+        4
+      ],
+      "Storia": [
+        2,
+        7,
+        2,
+        3
+      ],
+      "Matematica": [
+        6,
+        2,
+        8,
+        5
+      ],
+      "Inglese": [
+        3,
+        3,
+        5,
+        4
+      ],
+      "Informatica": [
+        2,
+        7,
+        4,
+        7
+      ],
+      "Sistemi e Reti": [
+        4,
+        4,
+        2,
+        5
+      ],
+      "Tpsit": [
+        9,
+        2,
+        8,
+        7
+      ],
+      "Telecomunicazioni": [
+        5,
+        2,
+        6,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 263181,
+    "nome": "Andrea",
+    "cognome": "Calabrese",
+    "data_nascita": "2008-11-16T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        4,
+        2,
+        9,
+        2
+      ],
+      "Storia": [
+        8,
+        2,
+        7,
+        7
+      ],
+      "Matematica": [
+        8,
+        6,
+        3,
+        2
+      ],
+      "Inglese": [
+        2,
+        7,
+        2,
+        8
+      ],
+      "Informatica": [
+        2,
+        3,
+        4,
+        2
+      ],
+      "Sistemi e Reti": [
+        9,
+        2,
+        2,
+        4
+      ],
+      "Tpsit": [
+        7,
+        4,
+        2,
+        7
+      ],
+      "Telecomunicazioni": [
+        2,
+        7,
+        4,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 635033,
+    "nome": "Giorgio",
+    "cognome": "Siciliano",
+    "data_nascita": "2007-12-15T23:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        2,
+        3,
+        2,
+        6
+      ],
+      "Storia": [
+        5,
+        3,
+        5,
+        5
+      ],
+      "Matematica": [
+        9,
+        2,
+        6,
+        7
+      ],
+      "Inglese": [
+        4,
+        8,
+        5,
+        9
+      ],
+      "Informatica": [
+        2,
+        8,
+        2,
+        4
+      ],
+      "Sistemi e Reti": [
+        2,
+        8,
+        5,
+        8
+      ],
+      "Tpsit": [
+        3,
+        2,
+        5,
+        2
+      ],
+      "Telecomunicazioni": [
+        4,
+        9,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 264490,
+    "nome": "Mattia",
+    "cognome": "Piemontese",
+    "data_nascita": "2007-10-11T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        8,
+        4,
+        2,
+        7
+      ],
+      "Storia": [
+        4,
+        8,
+        2,
+        2
+      ],
+      "Matematica": [
+        7,
+        2,
+        2,
+        9
+      ],
+      "Inglese": [
+        2,
+        7,
+        3,
+        6
+      ],
+      "Informatica": [
+        2,
+        4,
+        9,
+        3
+      ],
+      "Sistemi e Reti": [
+        8,
+        2,
+        2,
+        7
+      ],
+      "Tpsit": [
+        2,
+        6,
+        4,
+        6
+      ],
+      "Telecomunicazioni": [
+        2,
+        7,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 141606,
+    "nome": "Daniele",
+    "cognome": "Sardo",
+    "data_nascita": "2007-03-17T23:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        4,
+        9,
+        9,
+        4
+      ],
+      "Storia": [
+        7,
+        4,
+        2,
+        7
+      ],
+      "Matematica": [
+        4,
+        8,
+        5,
+        2
+      ],
+      "Inglese": [
+        3,
+        8,
+        6,
+        4
+      ],
+      "Informatica": [
+        9,
+        6,
+        3,
+        3
+      ],
+      "Sistemi e Reti": [
+        6,
+        8,
+        6,
+        8
+      ],
+      "Tpsit": [
+        7,
+        2,
+        4,
+        3
+      ],
+      "Telecomunicazioni": [
+        7,
+        3,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 153949,
+    "nome": "Alessandro",
+    "cognome": "Marchigiano",
+    "data_nascita": "2007-04-16T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        4,
+        2,
+        5,
+        3
+      ],
+      "Storia": [
+        9,
+        6,
+        2,
+        6
+      ],
+      "Matematica": [
+        2,
+        4,
+        7,
+        6
+      ],
+      "Inglese": [
+        2,
+        9,
+        7,
+        8
+      ],
+      "Informatica": [
+        2,
+        8,
+        2,
+        9
+      ],
+      "Sistemi e Reti": [
+        2,
+        6,
+        9,
+        9
+      ],
+      "Tpsit": [
+        9,
+        6,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        4,
+        7,
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 586611,
+    "nome": "Marco",
+    "cognome": "Fabbri",
+    "data_nascita": "2008-02-22T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        7,
+        2
+      ],
+      "Storia": [
+        2,
+        2,
+        7,
+        2
+      ],
+      "Matematica": [
+        2,
+        8,
+        4,
+        2
+      ],
+      "Inglese": [
+        6,
+        2,
+        2,
+        8
+      ],
+      "Informatica": [
+        4,
+        7,
+        2,
+        7
+      ],
+      "Sistemi e Reti": [
+        4,
+        2,
+        6,
+        7
+      ],
+      "Tpsit": [
+        8,
+        6,
+        3,
+        2
+      ],
+      "Telecomunicazioni": [
+        2,
+        7,
+        8,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 140632,
+    "nome": "Andrea",
+    "cognome": "Ferrari",
+    "data_nascita": "2007-08-08T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        3,
+        7,
+        6,
+        6
+      ],
+      "Storia": [
+        2,
+        6,
+        2,
+        4
+      ],
+      "Matematica": [
+        8,
+        5,
+        7,
+        6
+      ],
+      "Inglese": [
+        2,
+        2,
+        4,
+        7
+      ],
+      "Informatica": [
+        2,
+        2,
+        6,
+        2
+      ],
+      "Sistemi e Reti": [
+        8,
+        2,
+        3,
+        2
+      ],
+      "Tpsit": [
+        4,
+        8,
+        2,
+        5
+      ],
+      "Telecomunicazioni": [
+        6,
+        4,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 533108,
+    "nome": "Lorenzo",
+    "cognome": "Rossi (rosso)",
+    "data_nascita": "2007-03-06T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        2,
+        2,
+        3,
+        2
+      ],
+      "Storia": [
+        8,
+        9,
+        3,
+        4
+      ],
+      "Matematica": [
+        2,
+        2,
+        5,
+        2
+      ],
+      "Inglese": [
+        8,
+        8,
+        2,
+        2
+      ],
+      "Informatica": [
+        4,
+        3,
+        2,
+        3
+      ],
+      "Sistemi e Reti": [
+        5,
+        7,
+        2,
+        5
+      ],
+      "Tpsit": [
+        8,
+        2,
+        7,
+        2
+      ],
+      "Telecomunicazioni": [
+        9,
+        3,
+        9,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 364115,
+    "nome": "Francesco",
+    "cognome": "Bianchi (bianco)",
+    "data_nascita": "2008-12-04T23:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        6,
+        2,
+        9,
+        9
+      ],
+      "Storia": [
+        2,
+        2,
+        2,
+        9
+      ],
+      "Matematica": [
+        6,
+        2,
+        5,
+        6
+      ],
+      "Inglese": [
+        5,
+        8,
+        4,
+        2
+      ],
+      "Informatica": [
+        4,
+        3,
+        2,
+        7
+      ],
+      "Sistemi e Reti": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "Tpsit": [
+        2,
+        8,
+        4,
+        2
+      ],
+      "Telecomunicazioni": [
+        9,
+        2,
+        9,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 600319,
+    "nome": "Matteo",
+    "cognome": "Barbieri",
+    "data_nascita": "2008-09-22T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        4,
+        7,
+        2,
+        6,
+        6
+      ],
+      "Storia": [
+        2,
+        6,
+        5,
+        6
+      ],
+      "Matematica": [
+        4,
+        3,
+        6,
+        3
+      ],
+      "Inglese": [
+        3,
+        2,
+        6,
+        2,
+        6
+      ],
+      "Informatica": [
+        9,
+        2,
+        3,
+        2,
+        6
+      ],
+      "Sistemi e Reti": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "Tpsit": [
+        5,
+        2,
+        7,
+        6
+      ],
+      "Telecomunicazioni": [
+        2,
+        2,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 324736,
+    "nome": "Luca",
+    "cognome": "Sartori",
+    "data_nascita": "2007-01-20T23:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        5,
+        5,
+        2,
+        5
+      ],
+      "Storia": [
+        4,
+        9,
+        2,
+        6
+      ],
+      "Matematica": [
+        8,
+        2,
+        9,
+        5
+      ],
+      "Inglese": [
+        4,
+        8,
+        9,
+        5
+      ],
+      "Informatica": [
+        2,
+        5,
+        8,
+        2
+      ],
+      "Sistemi e Reti": [
+        2,
+        2,
+        2,
+        8
+      ],
+      "Tpsit": [
+        6,
+        5,
+        9,
+        2
+      ],
+      "Telecomunicazioni": [
+        2,
+        5,
+        8,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 399732,
+    "nome": "Daniele",
+    "cognome": "Fattori",
+    "data_nascita": "2007-04-20T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        7,
+        2,
+        6,
+        5
+      ],
+      "Storia": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "Matematica": [
+        9,
+        9,
+        2,
+        2
+      ],
+      "Inglese": [
+        6,
+        5,
+        4,
+        8
+      ],
+      "Informatica": [
+        4,
+        2,
+        2,
+        8
+      ],
+      "Sistemi e Reti": [
+        5,
+        5,
+        3,
+        3
+      ],
+      "Tpsit": [
+        2,
+        3,
+        2,
+        4
+      ],
+      "Telecomunicazioni": [
+        7,
+        4,
+        8,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 445191,
+    "nome": "Gabriele",
+    "cognome": "Molinari",
+    "data_nascita": "2007-03-09T23:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        7,
+        9,
+        9,
+        9
+      ],
+      "Storia": [
+        3,
+        5,
+        8,
+        2
+      ],
+      "Matematica": [
+        2,
+        2,
+        5,
+        8
+      ],
+      "Inglese": [
+        6,
+        8,
+        8,
+        2
+      ],
+      "Informatica": [
+        2,
+        6,
+        8,
+        3
+      ],
+      "Sistemi e Reti": [
+        5,
+        8,
+        9,
+        9
+      ],
+      "Tpsit": [
+        3,
+        7,
+        7,
+        4
+      ],
+      "Telecomunicazioni": [
+        6,
+        3,
+        6,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 160250,
+    "nome": "Riccardo",
+    "cognome": "Fornari",
+    "data_nascita": "2008-06-07T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        3,
+        6,
+        7,
+        3
+      ],
+      "Storia": [
+        3,
+        8,
+        7,
+        5
+      ],
+      "Matematica": [
+        5,
+        6,
+        3,
+        6
+      ],
+      "Inglese": [
+        4,
+        4,
+        7,
+        2
+      ],
+      "Informatica": [
+        3,
+        2,
+        9,
+        3
+      ],
+      "Sistemi e Reti": [
+        9,
+        2,
+        3,
+        2
+      ],
+      "Tpsit": [
+        6,
+        9,
+        6,
+        9
+      ],
+      "Telecomunicazioni": [
+        8,
+        4,
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 242497,
+    "nome": "Andrea",
+    "cognome": "Pastori",
+    "data_nascita": "2008-12-14T23:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        3,
+        4,
+        2,
+        8
+      ],
+      "Storia": [
+        7,
+        2,
+        5,
+        5
+      ],
+      "Matematica": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "Inglese": [
+        7,
+        7,
+        2,
+        2
+      ],
+      "Informatica": [
+        6,
+        2,
+        8,
+        2
+      ],
+      "Sistemi e Reti": [
+        2,
+        3,
+        7,
+        4
+      ],
+      "Tpsit": [
+        9,
+        7,
+        6,
+        8
+      ],
+      "Telecomunicazioni": [
+        6,
+        7,
+        2,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 165270,
+    "nome": "Alex",
+    "cognome": "Rossi (rosso)",
+    "data_nascita": "2008-04-26T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        9,
+        5,
+        8,
+        6
+      ],
+      "Storia": [
+        8,
+        9,
+        2,
+        2
+      ],
+      "Matematica": [
+        8,
+        2,
+        2,
+        8
+      ],
+      "Inglese": [
+        8,
+        8,
+        9,
+        7
+      ],
+      "Informatica": [
+        7,
+        4,
+        5,
+        3
+      ],
+      "Sistemi e Reti": [
+        9,
+        9,
+        9,
+        7
+      ],
+      "Tpsit": [
+        2,
+        2,
+        7,
+        9
+      ],
+      "Telecomunicazioni": [
+        2,
+        2,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 289272,
+    "nome": "Samuele",
+    "cognome": "Bianchi (bianco)",
+    "data_nascita": "2007-01-09T23:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        2,
+        6,
+        7,
+        4
+      ],
+      "Storia": [
+        3,
+        8,
+        3,
+        3
+      ],
+      "Matematica": [
+        2,
+        8,
+        2,
+        8
+      ],
+      "Inglese": [
+        2,
+        8,
+        6,
+        2
+      ],
+      "Informatica": [
+        2,
+        9,
+        6,
+        9
+      ],
+      "Sistemi e Reti": [
+        6,
+        6,
+        8,
+        7
+      ],
+      "Tpsit": [
+        6,
+        9,
+        5,
+        6
+      ],
+      "Telecomunicazioni": [
+        3,
+        4,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 609863,
+    "nome": "Daniele",
+    "cognome": "Nero",
+    "data_nascita": "2008-08-07T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        2,
+        6,
+        2,
+        4
+      ],
+      "Storia": [
+        9,
+        9,
+        6,
+        2
+      ],
+      "Matematica": [
+        7,
+        4,
+        6,
+        8
+      ],
+      "Inglese": [
+        3,
+        9,
+        2,
+        2
+      ],
+      "Informatica": [
+        2,
+        6,
+        8,
+        3
+      ],
+      "Sistemi e Reti": [
+        6,
+        4,
+        7,
+        4
+      ],
+      "Tpsit": [
+        2,
+        8,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        6,
+        2,
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 301546,
+    "nome": "Marco",
+    "cognome": "Bruno",
+    "data_nascita": "2007-10-22T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        4,
+        5,
+        8,
+        9
+      ],
+      "Storia": [
+        6,
+        5,
+        9,
+        8
+      ],
+      "Matematica": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Inglese": [
+        2,
+        2,
+        9,
+        2
+      ],
+      "Informatica": [
+        4,
+        8,
+        6,
+        3
+      ],
+      "Sistemi e Reti": [
+        9,
+        2,
+        7,
+        2
+      ],
+      "Tpsit": [
+        2,
+        9,
+        3,
+        2
+      ],
+      "Telecomunicazioni": [
+        6,
+        9,
+        9,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 385770,
+    "nome": "Mattia",
+    "cognome": "Biondi",
+    "data_nascita": "2008-02-09T23:00:00Z",
+    "luogo_nascita": "Padova",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        2,
+        4,
+        9,
+        5
+      ],
+      "Storia": [
+        7,
+        2,
+        6,
+        8
+      ],
+      "Matematica": [
+        5,
+        2,
+        6,
+        8
+      ],
+      "Inglese": [
+        9,
+        5,
+        5,
+        2
+      ],
+      "Informatica": [
+        6,
+        6,
+        7,
+        2
+      ],
+      "Sistemi e Reti": [
+        2,
+        3,
+        2,
+        4
+      ],
+      "Tpsit": [
+        6,
+        2,
+        6,
+        2
+      ],
+      "Telecomunicazioni": [
+        2,
+        2,
+        8,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 404797,
+    "nome": "Gabriele",
+    "cognome": "Ricci",
+    "data_nascita": "2008-09-05T22:00:00Z",
+    "luogo_nascita": "Venezia",
+    "classe": "5CII",
+    "voti": {
+      "Italiano": [
+        2,
+        7,
+        5,
+        8
+      ],
+      "Storia": [
+        9,
+        5,
+        4,
+        3
+      ],
+      "Matematica": [
+        2,
+        2,
+        2,
+        9
+      ],
+      "Inglese": [
+        5,
+        9,
+        2,
+        3
+      ],
+      "Informatica": [
+        7,
+        9,
+        9,
+        2
+      ],
+      "Sistemi e Reti": [
+        2,
+        5,
+        6,
+        8
+      ],
+      "Tpsit": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "Telecomunicazioni": [
+        8,
+        6,
+        4,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 543824,
+    "nome": "Valentina",
+    "cognome": "Lombardi",
+    "data_nascita": "2008-10-04T22:00:00Z",
+    "luogo_nascita": "Belluno",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        2,
+        3,
+        8,
+        2
+      ],
+      "Storia": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "Matematica": [
+        5,
+        2,
+        3,
+        3
+      ],
+      "Inglese": [
+        6,
+        2,
+        5,
+        2
+      ],
+      "Informatica": [
+        8,
+        2,
+        6,
+        7
+      ],
+      "Sistemi e Reti": [
+        6,
+        9,
+        2,
+        5
+      ],
+      "Tpsit": [
+        9,
+        7,
+        9,
+        5
+      ],
+      "Telecomunicazioni": [
+        2,
+        6,
+        7,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 526284,
+    "nome": "Asia",
+    "cognome": "Mancini",
+    "data_nascita": "2007-06-01T22:00:00Z",
+    "luogo_nascita": "Vicenza",
+    "classe": "4CII",
+    "voti": {
+      "Italiano": [
+        9,
+        7,
+        7,
+        3
+      ],
+      "Storia": [
+        7,
+        2,
+        8,
+        2
+      ],
+      "Matematica": [
+        2,
+        9,
+        2,
+        6
+      ],
+      "Inglese": [
+        6,
+        3,
+        8,
+        2
+      ],
+      "Informatica": [
+        5,
+        8,
+        3,
+        7
+      ],
+      "Sistemi e Reti": [
+        2,
+        3,
+        2,
+        9
+      ],
+      "Tpsit": [
+        8,
+        2,
+        5,
+        2
+      ],
+      "Telecomunicazioni": [
+        2,
+        2,
+        5,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 645449,
+    "nome": "Sofia",
+    "cognome": "Marino",
+    "data_nascita": "2008-09-11T22:00:00Z",
+    "luogo_nascita": "Verona",
+    "classe": "3CII",
+    "voti": {
+      "Italiano": [
+        9,
+        2,
+        4,
+        2,
+        6,
+        10
+      ],
+      "Storia": [
+        4,
+        2,
+        2,
+        4
+      ],
+      "Matematica": [
+        7,
+        5,
+        5,
+        3
+      ],
+      "Inglese": [
+        8,
+        5,
+        5,
+        2
+      ],
+      "Informatica": [
+        9,
+        2,
+        9,
+        5
+      ],
+      "Sistemi e Reti": [
+        2,
+        3,
+        7,
+        7
+      ],
+      "Tpsit": [
+        8,
+        7,
+        2,
+        5
+      ],
+      "Telecomunicazioni": [
+        4,
+        9,
+        5,
+        2
+      ]
+    }
+  }
+]

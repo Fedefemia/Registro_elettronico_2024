@@ -1,0 +1,13 @@
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\bin\Debug\Registroelettronico.exe.config
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\bin\Debug\Registroelettronico.exe
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\bin\Debug\Registroelettronico.pdb
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\obj\Debug\Registroelettronico.csproj.AssemblyReference.cache
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\obj\Debug\Registroelettronico.Properties.Resources.resources
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\obj\Debug\Registroelettronico.csproj.GenerateResource.cache
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\obj\Debug\Registroelettronico.csproj.CoreCompileInputs.cache
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\obj\Debug\Registro.4109655B.Up2Date
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\obj\Debug\Registroelettronico.exe
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\obj\Debug\Registroelettronico.pdb
+C:\Users\fedee\source\repos\Registroelettronico\Registroelettronico\obj\Debug\Registroelettronico.Form1.resources
