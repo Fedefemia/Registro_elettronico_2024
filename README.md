@@ -108,7 +108,8 @@ Requisiti
 **Installazione e Configurazione**
 
 Clonare Il repository:
-`git clone https://github.com/tuo-utente/registro-elettronico.git cd registro-elettronico`
+`git clone https://github.com/Fedefemia/registro_elettronico_2024`
+`cd registro_elettronico_2024`
 
 Aprire il progetto in Visual Studio:
 
